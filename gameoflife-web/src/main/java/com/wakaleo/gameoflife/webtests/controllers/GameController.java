@@ -117,4 +117,8 @@ public class GameController {
     private Random getRandomGenerator() {
         return randomGenerator;
     }
+    private int getnumber() {
+        return 0;
+    }
 }
+
